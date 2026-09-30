@@ -1,3 +1,6 @@
+Kaggle
+	https://www.kaggle.com/
+
 ONS: population change by region.
 	https://www.ons.gov.uk/visualisations/censuspopulationchange/
 
@@ -20,3 +23,6 @@ Colour Blindness
 
 Spurious Correlations
 	https://www.tylervigen.com/spurious-correlations
+
+Regression
+	https://observablehq.com/@yizhe-ang/interactive-visualization-of-linear-regression
